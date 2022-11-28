@@ -3,7 +3,7 @@
 
 Pada praktikum 6, kita akan membuat program sederhana untuk membuat data mahasiswa menggunakan Dictionary dengan python.
 
-#### Flowchart
+## <b>Flowchart </b>
 
 ![5](https://user-images.githubusercontent.com/115614173/204259630-3a4fe6cb-308e-4e02-a13c-cb878da0721e.png)
 
